@@ -1,6 +1,6 @@
-# 📊 Projeto – Análise de Vendas x Metas
+# Projeto – Análise de Vendas x Metas
 
-Dashboard desenvolvido em Power BI para análise do faturamento, acompanhamento de metas e identificação de oportunidades de negócio, utilizando ETL, modelagem dimensional e DAX.
+Dashboard desenvolvido em Power BI para análise do faturamento, acompanhamento de metas e identificação de oportunidades de negócio, utilizando ETL, modelagem dimensional e DAX para apoiar a tomada de decisão baseada em dados.
 
 ## Dashboard
 
@@ -27,14 +27,14 @@ Dashboard desenvolvido em Power BI para análise do faturamento, acompanhamento 
 - Identificar oportunidades de negócio por meio da análise dos indicadores.
 
 
-## 📈 Principais indicadores
+## Principais indicadores
 
 - Faturamento
 - Meta de faturamento
 - % da meta atingida
 - Comparativo anual
 
-## 📂 Arquivos do projeto
+## Arquivos do projeto
 
 | Arquivo                    | Descrição             |
 | -------------------------- | --------------------- |
