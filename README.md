@@ -2,6 +2,8 @@
 
 Dashboard desenvolvido em Power BI para análise do faturamento, acompanhamento de metas e identificação de oportunidades de negócio, utilizando ETL, modelagem dimensional e DAX.
 
+![Dashboard](dashboard-visao-geral.png)
+
 ## Objetivos do projeto
 
 - Realizar o processo de ETL (Extração, Transformação e Carga);
